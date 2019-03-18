@@ -1,4 +1,4 @@
-# Kirby Highlight
+# Kirby3 Highlight
 [![Release](https://img.shields.io/github/release/S1SYPHOS/kirby3-highlight.svg)](https://github.com/S1SYPHOS/kirby3-highlight/releases) [![License](https://img.shields.io/github/license/S1SYPHOS/kirby3-highlight.svg)](https://github.com/S1SYPHOS/kirby3-highlight/blob/master/LICENSE) [![Issues](https://img.shields.io/github/issues/S1SYPHOS/kirby3-highlight.svg)](https://github.com/S1SYPHOS/kirby3-highlight/issues)
 
 This plugin highlights your code snippets server-side - without external dependencies.
