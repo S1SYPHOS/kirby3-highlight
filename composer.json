@@ -1,0 +1,24 @@
+{
+  "name": "s1syphos/kirby3-highlight",
+  "description": "Themeable server-side syntax highlighting for Kirby v3",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "scripts": {
+    "cs-dry": "php-cs-fixer fix --dry-run --diff",
+    "cs-fix": "php-cs-fixer fix"
+  },
+  "authors": [
+    {
+      "name": "Martin Folkers",
+      "homepage": "https://twobrain.io",
+      "role": "Project Author"
+    }
+  ],
+  "require": {
+    "getkirby/composer-installer": "^1.1",
+    "scrivo/highlight.php": "^9.15"
+  },
+  "require-dev": {
+    "friendsofphp/php-cs-fixer": "^2.14"
+  }
+}
